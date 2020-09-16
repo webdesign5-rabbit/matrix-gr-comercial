@@ -7,16 +7,14 @@ const roomFilePath = "../file/matrix.room.web.json";
 
 const createRoomFileSync = () => {
   const niceNames = [
-    "The Dock",
-    "Nebuchadnezzar",
-    "Logos",
-    "Osiris",
-    "Icarus",
-    "Caduceus",
-    "Brahma",
-    "Novalis",
-    "Vigilant",
-    "Zion",
+    "Comercial",
+    "GRs Internas",
+    "GRs Externas",
+	"2 Ways",
+	"Camuflada",
+	"Reunião 1",
+	"Reunião 2",
+	"Reunião 3",
   ];
 
 
